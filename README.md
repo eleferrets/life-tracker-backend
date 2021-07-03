@@ -39,7 +39,11 @@ Implement any of the following features to improve the application:
 ### Walkthrough Video
 
 ![image](Assignment3.gif)
-![image](Assignment3-2.gif)
+![image](Assignment3-2.gif) 
+![image](assignment331.gif)
+![image](assignment332.gif)
+![image](assignment333.gif)
+![image](assignment334.gif)
 
 ### Reflection
 
